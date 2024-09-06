@@ -18,6 +18,6 @@
 * 기타 데이터
     - 매장 데이터(stores.csv): 도시 , 주 , 유형 , 클러스터를 포함한 데이터.
 
-# 캐글 compatitoon 정보
+# 캐글 competition 정보
 현재 진행되는 compatiton인 'Store Sales - Time Series Forecasting'에 참여.
 - 캐글 compatiton 링크 : https://www.kaggle.com/competitions/store-sales-time-series-forecasting/overview
