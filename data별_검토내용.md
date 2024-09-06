@@ -28,11 +28,9 @@
 - 'Type: Holiday' 중에서' 'transferred : True'면 휴일이 다른 날짜로 변경 된 것이고, 실제 휴이을 찾으며면 'Type: Transfer' 인 해당 행을 찾으면 됨.
 - 'Type: Bridge'는 추가로 지정 된 휴일.
 - 'Type: Work Day'는 Bridge로 인한 휴일을 보상하기 위해, 근무하지 않는 날에 일하게 되는 날.
-        ( 'Bridge'는 연휴를 길게 만들기 위해 추가된 날이고, 그 추가된 휴일을 보상하기 위해 보통 쉬는 날에 일을 해야 할 때가 있다는 개념임.)
-        예) 2012-10-09의 'Independencia de Guayaquil'은 2012-10-12로 휴일이 변경 되었음. 
-
-
-- 'Type: Bridge'와 'Type: Additional'의관계 
+        - ( 'Bridge'는 연휴를 길게 만들기 위해 추가된 날이고, 그 추가된 휴일을 보상하기 위해 보통 쉬는 날에 일을 해야 할 때가 있다는 개념임.)
+        - 예) 2012-10-09의 'Independencia de Guayaquil'은 2012-10-12로 휴일이 변경 되었음. 
+- 'Type: Bridge'와 'Type: Additional'의 관계를 확인하기 이해 'date: 2012-12-24'를 확인해봐야 한다. 
 
 
 ### 5. test.csv
